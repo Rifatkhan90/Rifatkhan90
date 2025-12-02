@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Rifat Khan</h1>
+<h1 align="center">Hello , I'm Rifat Khan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on **Development**
+- 🔭 I’m currently working as a **Developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
